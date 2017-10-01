@@ -8,6 +8,10 @@ img.customer {
     background: #ee0000;padding:10px
 }
 
+img.storebrand {
+    height:30px
+}
+
 .u:before {
     content: '';
     position: absolute;
@@ -59,7 +63,7 @@ img.customer {
 
 .u.r90 {
     transform: rotate(90deg);
-    margin-left: 0px;
+    margin-left: -4px;
 }
 
 .u:hover {
