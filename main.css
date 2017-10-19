@@ -84,7 +84,7 @@ img.storebrand {
 }
 
 .mountains {
-    background-image: url("images/rart.jpg");
+    background-image: url("images/rart.jpg") !important;
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
